@@ -31,3 +31,5 @@ console.log(media.toFixed(2))
 console.log(media.toFixed(2).toString())
 
 console.log((10).toFixed(2))
+const escola = "Cod3r"
+console.log(escola.charAt(4))
